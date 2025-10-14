@@ -1,0 +1,11 @@
+{
+  "sintomas": [
+    { "id": 1, "nome": "Tosse persistente", "descricao": "Tosse que não melhora com o tempo" },
+    { "id": 2, "nome": "Dor no peito", "descricao": "Dor constante ao respirar ou tossir" },
+    { "id": 3, "nome": "Falta de ar", "descricao": "Sensação de cansaço e respiração curta" }
+  ],
+  "tratamentos": [
+    { "id": 1, "tipo": "Quimioterapia", "descricao": "Uso de medicamentos para eliminar as células cancerígenas" },
+    { "id": 2, "tipo": "Radioterapia", "descricao": "Uso de radiação para destruir as células do câncer" }
+  ]
+}
