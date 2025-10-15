@@ -1,11 +1,28 @@
 {
-  "sintomas": [
-    { "id": 1, "nome": "Tosse persistente", "descricao": "Tosse que não melhora com o tempo" },
-    { "id": 2, "nome": "Dor no peito", "descricao": "Dor constante ao respirar ou tossir" },
-    { "id": 3, "nome": "Falta de ar", "descricao": "Sensação de cansaço e respiração curta" }
-  ],
-  "tratamentos": [
-    { "id": 1, "tipo": "Quimioterapia", "descricao": "Uso de medicamentos para eliminar as células cancerígenas" },
-    { "id": 2, "tipo": "Radioterapia", "descricao": "Uso de radiação para destruir as células do câncer" }
+  "eventos": [
+    {
+      "id": 1,
+      "data": "04/02/2025",
+      "nome": "Dia Mundial do Câncer",
+      "descricao": "Data voltada para conscientizar sobre todos os tipos de câncer e incentivar a prevenção."
+    },
+    {
+      "id": 2,
+      "data": "31/07/2025",
+      "nome": "Dia Mundial de Combate ao Câncer de Pulmão",
+      "descricao": "Destaca a importância do diagnóstico precoce e do combate ao tabagismo."
+    },
+    {
+      "id": 3,
+      "data": "29/08/2025",
+      "nome": "Dia Nacional de Combate ao Fumo",
+      "descricao": "Alerta sobre os riscos do cigarro e sua relação com o câncer de pulmão."
+    },
+    {
+      "id": 4,
+      "data": "Novembro/2025",
+      "nome": "Novembro Branco",
+      "descricao": "Campanha dedicada à conscientização e prevenção do câncer de pulmão."
+    }
   ]
 }
